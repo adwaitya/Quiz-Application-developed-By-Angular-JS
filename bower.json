@@ -1,0 +1,23 @@
+{
+  "name": "responsiveap",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "adwaitya"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/adwaitya/Quiz-Application-developed-By-Angular-JS",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "angular-route": "^1.5.7",
+    "bootstrap": "^3.3.6"
+  }
+}
